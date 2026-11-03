@@ -51,9 +51,9 @@ sudo snort -c /etc/snort/snort.conf -i eth0  # NIDS mode
 ## Repository Contents
 
 ```
-Project_Snort/
+snort-ids-ips-analysis/
 ├── README.md
-├── Siddartha_Bandi_Snort.pdf     # Full technical paper (PDF)
+└── snort-ids-ips-analysis.pdf    # Full technical paper (PDF)
 ```
 
 ---
